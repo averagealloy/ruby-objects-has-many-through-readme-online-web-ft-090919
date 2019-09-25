@@ -24,9 +24,9 @@ def meals
 end
 
 def best_tipper
-  best_tipped_meal = meals.max {|meal_a, meal_b| meal_a.tip <=> meal_b.tip}
+  best_tipped_meal = meals.max {|meal_a, meal_b| me}
 end
-best_tipped_meal.customer 
+best_tipped_meal.customer
 
 end
 
