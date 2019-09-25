@@ -13,5 +13,5 @@ class Customer
      @@all
    end
 
-  de
+  def new
 end
