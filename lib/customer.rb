@@ -13,5 +13,5 @@ class Customer
      @@all
    end
 
-  def new_meal(waiter)
+  def new_meal(waiter, tota)
 end
