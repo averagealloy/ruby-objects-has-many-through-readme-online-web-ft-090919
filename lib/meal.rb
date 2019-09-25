@@ -1,3 +1,1 @@
-class Meal
 
-end
