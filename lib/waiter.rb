@@ -23,6 +23,6 @@ def meals
  end
 end
 
-def best_
+def best_tipper
 
 end
