@@ -24,8 +24,8 @@ def meals
 end
 
 def best_tipper
+  bes
 
-
-end 
+end
 
 end
