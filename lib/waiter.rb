@@ -24,7 +24,7 @@ def meals
 end
 
 def best_tipper
-  best
+  best_tipped_meal
 
 end
 
